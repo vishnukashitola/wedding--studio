@@ -1,0 +1,145 @@
+body{
+    background-color: rgb(83, 81, 81);
+    font-family: "arquitecta", standard-bold;
+    font-weight: 1000;
+    font-style: normal;
+}
+.toparea{
+    background-color: brown;
+}
+.toparea ul li{
+   float: left; 
+   list-style: none;
+   color: white;
+   padding: 10px;
+   
+}
+.toparea img{
+    width: 100%;
+}
+.toparea ul li i{
+    color: white;
+}
+.team h1 {
+    
+    color: yellow;
+}
+.team h3{
+    padding-top: 8px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 8px;
+   
+    color: #fff;
+}
+
+.icon{
+    padding-left:50px;
+}
+
+.fa-facebook{
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left: 35px;
+    margin-bottom: 5px;
+}
+.fa-youtube{
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left: 0px;
+}
+.fa-instagram{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.fa-whatsapp{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.sec{
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url('');
+    padding: 10px 0;
+    
+    
+    
+}
+.teamMember i{
+    color: #fff;
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+    
+}
+.teamMember {
+    text-align: center;
+}
+.sen{
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url('');
+    padding: 10px 0;
+    
+    background-color: grey;
+    
+}
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+  }
+.box{
+    width:100%;
+    margin:10px 0;
+
+    background: grey;
+    border: solid 5px rgb(208, 209, 210);
+    
+}
+
+.box img:hover{
+    border-radius: 10px;
+    transform: scale(1.1, 1.1);
+    
+    box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, 0.4), 10px 10px 0px 0px rgba(0, 0, 0, 0.3), 15px 15px 0px 0px rgba(0, 0, 0, 0.2), 20px 20px 0px 0px rgba(0, 0, 0, 0.1);
+}
+
+.box img{
+    width:100%;
+    transition: all 2s;
+   
+}
+
+
+
+.foot{
+    background:black;
+    padding: 30px 30px;
+}
+.foot h3{
+    border-left: 10px  white;
+    color: yellow;
+}
+.foot p{
+    color:#faf8f5;
+}
+.foot h5{
+    color:#f6f3f2;
+    
+}
+.foot ul li:hover{
+    transform: translate(5px 10px);
+}
+.foot a{
+    text-decoration: none;
+    color: #fff;
+}
+.foot i {
+    color: #fff;
+    margin: 5px 10px;
+}
+
+
