@@ -283,7 +283,7 @@ hr {
 }
 .about img{
     padding: 10px;
-    filter: drop-shadow(46px 30px 1px #ffffffdf);
+    filter: drop-shadow(46px 30px 1px #ff0000df);
     width: 90%;
     border: solid 2px red;
     border-radius: 30px;
