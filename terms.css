@@ -4,9 +4,7 @@ body{
     font-weight: 1000;
     font-style: normal;
 }
-.toparea{
-    background-color: brown;
-}
+
 .toparea ul li{
    float: left; 
    list-style: none;
@@ -24,7 +22,9 @@ body{
 .terms{
     background: grey;
 }
-
+.term {
+    text-align: center!;
+}
 
 
 .foot{
@@ -33,7 +33,7 @@ body{
 }
 .foot h3{
     border-left: 10px  white;
-    color: yellow;
+    color: rgb(255, 0, 0);
 }
 .foot p{
     color:#faf8f5;

@@ -268,17 +268,26 @@ hr {
   border-style: inset;
   border-width: 1px;
 }
+.sech1{
+  text-align: center;
+  color: #fff;
+  text-shadow: 0px 3px 3px rgba(255, 255, 255, 0.776);
+}
 .box{
     width:100%;
     margin:10px 0;
-   
     background: grey;
     background: linear-gradient(90deg,rgb(246, 146, 146),rgb(142, 137, 140),rgb(117, 116, 116));
+    border-radius: 10px;
+    border: solid 3px white;
     
 }
+
 .box img{
     width:100%;
+    border-radius: 8px;
     transition: transform 2s ease;
+    border: none;
    
 
 }
@@ -286,14 +295,22 @@ hr {
         transform:scale(0.8);
         overflow: hidden;
 
+
 }
 .about{
     color: #000000;
 }
+hr 
+{
+  background: black;
+}
+footer h5{
+  color: #fff;
+}
 .about h1{
    margin-top: 60px;
    color: rgb(255, 0, 0);
-   text-shadow: 0px 2px 2px rgba(188, 20, 20, 0.799);
+   text-shadow: 0px 3px 3px rgba(246, 2, 2, 0.799);
 }
 .about h3{
     margin-top: 40px;
