@@ -307,7 +307,15 @@ hr {
 }
 .about img{
     padding: 10px;
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
     filter: drop-shadow(46px 30px 1px #ffffffdf);
+=======
+    filter: drop-shadow(30px 30px 1px white);
+>>>>>>> Stashed changes
+=======
+    filter: drop-shadow(30px 30px 1px white);
+>>>>>>> Stashed changes
     width: 90%;
     border: solid 2px red;
     border-radius: 30px;
@@ -608,7 +616,7 @@ body, html {
 
 .container1 form .input-box input:valid~span,
 .container1 form .input-box input:focus~span {
-    color : yellow ;
+    color : rgb(255, 0, 0) ;
     transform: translateY(-30px);
     z-index: 9;
 }
