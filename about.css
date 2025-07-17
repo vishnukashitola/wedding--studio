@@ -50,6 +50,17 @@
 
 }
 
+@media (max-width: 600px) {
+  /* Your mobile styles go here */
+  body {
+    font-size: 14px;
+    padding: 10px !important;
+  }
+  h3{
+    font-size: 16px;
+  }
+}
+
 
 
 
