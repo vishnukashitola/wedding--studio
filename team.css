@@ -92,35 +92,6 @@ hr {
    
 }
 
-
-
-.foot{
-    background:black;
-    padding: 30px 30px;
-}
-.foot h3{
-    border-left: 10px  white;
-    color: rgb(255, 0, 0);
-}
-.foot p{
-    color:#faf8f5;
-}
-.foot h5{
-    color:#f6f3f2;
-    
-}
-.foot ul li:hover{
-    transform: translate(5px 10px);
-}
-.foot a{
-    text-decoration: none;
-    color: #fff;
-}
-.foot i {
-    color: #fff;
-    margin: 5px 10px;
-}
-
 .sen{
     background-color: #E3E3E3!important;
     color: black;
