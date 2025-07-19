@@ -1,13 +1,6 @@
-body{
-    background-color: rgb(83, 81, 81);
-    font-family: "arquitecta", standard-bold;
-    font-weight: 1000;
-    font-style: normal;
-}
 
-.toparea{
-    background-color: brown;
-}
+
+
 .story {
     height: 100vh;
     display: flex;
@@ -20,7 +13,9 @@ body{
     overflow: hidden;
     position: relative;
   }
-  
+ section{
+  background-color: rgba(255, 255, 255, 0.212);
+ }
   .background-image {
     position: absolute;
     top: 0;
@@ -46,7 +41,7 @@ body{
   }
   
   .text-container h2{
-    color: yellow;
+    color: rgb(255, 0, 0);
   }
   .text-container p{
     color: white;
@@ -66,7 +61,7 @@ body{
 }
 .foot h3{
     border-left: 10px  white;
-    color: yellow;
+    color: rgb(255, 0, 0);
 }
 
 .foot i {
